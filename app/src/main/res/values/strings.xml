@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileBrowser</string>
+    <string name="appName">GridView</string>
+    <string name="titleMenuExit">Выход</string>
+</resources>
